@@ -1,0 +1,26 @@
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\bin\Debug\SegmentationImage.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\bin\Debug\SegmentationImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\bin\Debug\SegmentationImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\App.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage_MarkupCompile.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.g.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\seminar03\SegmentationImage\obj\Debug\SegmentationImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\bin\Debug\SegmentationImage.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\bin\Debug\SegmentationImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\bin\Debug\SegmentationImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\App.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage_MarkupCompile.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.g.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\seminar03\SegmentationImage\obj\Debug\SegmentationImage.csproj.GenerateResource.Cache
