@@ -1,0 +1,55 @@
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.csprojResolveAssemblyReference.cache
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\MainWindow.baml
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\MainWindow.g.cs
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\App.g.cs
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.csproj.GenerateResource.Cache
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\MainWindow.baml
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\MainWindow.g.cs
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\App.g.cs
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.csproj.GenerateResource.Cache
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\GrayScaleImage\obj\Debug\GrayScaleImage.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\MainWindow.baml
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\MainWindow.g.cs
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\App.g.cs
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+C:\Users\1\Downloads\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\GrayScaleImage\cv\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\seminars-master\GrayScaleImage\cv\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\bin\Debug\GrayScaleImage.exe.config
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\bin\Debug\GrayScaleImage.exe
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\bin\Debug\GrayScaleImage.pdb
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\MainWindow.baml
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\MainWindow.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\App.g.cs
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage_MarkupCompile.cache
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.g.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.Properties.Resources.resources
+C:\Users\1\Documents\Visual Studio 2013\Projects\Computer Vision\GreyScale\GrayScaleImage\obj\Debug\GrayScaleImage.csproj.GenerateResource.Cache
