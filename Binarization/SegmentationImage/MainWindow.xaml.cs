@@ -106,7 +106,7 @@ namespace SegmentationImage
         {
             ImageProcessing process = new ImageProcessing();
             byte[] processedImageBytes;
-            processedImageBytes = process.setErosion(originalImageBytes);
+            processedImageBytes = process.setErosion(originalImageBytes, originalImage.PixelWidth, originalImage.PixelHeight);
             processedPanel.Source = ImageConvertor.ByteArrayToImage(processedImageBytes, originalImage.PixelWidth, originalImage.PixelHeight, 1);
         
 
